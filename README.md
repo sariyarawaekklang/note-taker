@@ -5,8 +5,9 @@ In this assignment, I created an application called Note Taker, that can be used
 ## Built With
 
 * Express.js
-* JSON
-* Deployed to Heroku
+* Node.js
+* Inquirer.js
+* Heroku
 
 ## User Story
 
