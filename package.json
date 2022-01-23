@@ -1,14 +1,24 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "In this assignment, I created an application called Note Taker, that can be used to write and save notes.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sariyarawaekklang/note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/sariyarawaekklang/note-taker/issues"
+  },
+  "homepage": "https://github.com/sariyarawaekklang/note-taker#readme"
 }
