@@ -53,7 +53,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 * Repository Quality
 
 ## Deployed Application URL
-https://sariyarawaekklang.github.io/note-taker/
+https://note-taker-7891.herokuapp.com/
 
 ## GitHub Repository URL
 https://github.com/sariyarawaekklang/note-taker.git
