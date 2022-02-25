@@ -1,6 +1,8 @@
-const fs = require('fs');
-const path = require('path');
 const router = require('express').Router();
+
+// npm package for giving each note a unique id
+// https://www.npmjs.com/package/uuid
+const { v4: uuidv4 }  = require('uuid');
 
 router.get('/api/notes', (req, res) => {
     res.sendFile(path.join(__dirname, '../../db/db.json'));
